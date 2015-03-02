@@ -1,0 +1,7 @@
+<resources>
+
+  <string name="app_name">点数記録!</string>
+  <string name="menu_settings">設定不要</string>
+  <string name="title_activity_main">テストを振り返ろう!</string>
+
+</resources>
